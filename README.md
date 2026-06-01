@@ -26,9 +26,9 @@ That's meant training DDPG agents for real-time decentralized energy markets, sh
 | Project | What it is | Stack |
 |---|---|---|
 | [**Gridium Protocol**](https://gridiumprotocol.netlify.app/overview) | RL + zk-SNARK decentralized energy trading — DDPG agent, AMM smart contracts, Groth16 privacy proofs. IEEE paper. | Python · PyTorch · Solidity · Circom · Hardhat · Web3.py |
-| [**ManoBandhu**](https://github.com/THRILL3R) | Mental wellness SaaS platform — gamified "Island Universe" experience, hybrid DB + Google Sheets failover, live users | React · TypeScript · Node.js · PostgreSQL · Framer Motion |
+| [**ManoBandhu**](https://Manobandhu.com) | Mental wellness SaaS platform — gamified "Island Universe" experience, hybrid DB + Google Sheets failover, live users | React · TypeScript · Node.js · PostgreSQL · Framer Motion |
 | [**SkillBridge**](https://skillbridge-iota-seven.vercel.app/) | Gasless blockchain credential platform — tamper-proof certificates on Base Sepolia, zero ETH required for students | Next.js · Solidity · Base Sepolia · Pinata IPFS · Wagmi |
-| [**MisInformation**](https://github.com/THRILL3R) | Agentic AI system detecting financial misinformation in real time — multi-agent pipelines + anomaly detection | Python · FastAPI · Gemini API · TensorFlow · Supabase |
+| [**MisInformation**](https://github.com/THRILL3R/Antigravity-Agent) | Agentic AI system detecting financial misinformation in real time — multi-agent pipelines + anomaly detection | Python · FastAPI · Gemini API · TensorFlow · Supabase |
 | [**Krushi-Mitra AI**](https://github.com/THRILL3R) | Smart farming app — NDVI analysis, ML yield prediction, AI Plant Doctor | React · Flask · TensorFlow · MongoDB · AWS EC2 · Docker |
 
 ---
