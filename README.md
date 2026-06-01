@@ -1,185 +1,98 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> **नमस्ते (Namaste)! I'm Sanket Deka** <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<div align="center">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sanket;AI+%26+ML+Engineer+%7C+Full-Stack+Builder;Blockchain+%7C+Research+%7C+Real+Products" alt="Typing SVG" />
 
-[![LinkedIn: sanket-deka](https://img.shields.io/badge/-sanket--deka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sanket-deka/)](https://linkedin.com/in/sanket-deka/)
-[![GitHub followers](https://img.shields.io/github/followers/THRILL3R?label=Follow&style=social)](https://github.com/THRILL3R)
-[![SkillBridge](https://img.shields.io/badge/Project-SkillBridge-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://skillbridge-iota-seven.vercel.app/)
-[![Gridium](https://img.shields.io/badge/Project-Gridium%20Protocol-6E40C9.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://gridiumprotocol.netlify.app/overview)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=THRILL3R.THRILL3R)
-[![Waka Readme](https://github.com/THRILL3R/THRILL3R/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/THRILL3R/THRILL3R/actions/workflows/waka-readme.yml)
-
-<br>
-
-### 📫 Want to connect?
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> *Open to ML internships, research collabs, and anything hard enough to be worth building.*
-
-📧 sanket.dekaglgt@gmail.com &nbsp;|&nbsp; 📱 +91 8623084791
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### About Me
 
-```javascript
-const sanket = {
-  name: "Sanket Deka",
-  pronouns: ["he", "him"],
-  education: "B.Tech AI & ML @ Universal AI University, Karjat (2024–Present)",
-  position: "VP, TechOps Club · Full-Stack Developer @ ManoBandhu MindCare Pvt. Ltd.",
+3rd year B.Tech AI & ML @ Universal AI University, Karjat — I build systems where the model is just one part of the product.
 
-  askMeAbout: [
-    "agentic AI systems",
-    "reinforcement learning",
-    "zk-SNARKs & blockchain",
-    "full-stack engineering",
-    "smart farming & NDVI",
-    "generative AI"
-  ],
+I care about one thing: **problems that actually need AI to solve them.**
 
-  technologies: {
-    aiML: {
-      frameworks: ["TensorFlow", "PyTorch"],
-      techniques: [
-        "Agentic AI", "Generative AI", "DDPG",
-        "Anomaly Detection", "NDVI Analysis",
-        "Model Evaluation", "Workflow Automation"
-      ],
-      apis: ["Google Gemini API"]
-    },
+That's meant training DDPG agents for real-time decentralized energy markets, shipping agentic misinformation detection pipelines, building production SaaS with real users, and designing gasless blockchain infra from scratch.
 
-    languages: ["Python", "TypeScript", "JavaScript", "C / C++", "R", "Solidity"],
-
-    frontend: {
-      frameworks: ["React.js", "Next.js", "Vite"],
-      styling: ["Tailwind CSS", "Framer Motion"],
-    },
-
-    backend: {
-      node: ["Node.js", "Express.js"],
-      python: ["FastAPI", "Flask"]
-    },
-
-    blockchain: {
-      tools: ["Hardhat", "Wagmi", "RainbowKit", "snarkjs", "Circom"],
-      networks: ["Base Sepolia", "Ethereum (Goerli)"]
-    },
-
-    databases: {
-      sql: ["PostgreSQL"],
-      nosql: ["MongoDB Atlas", "Firebase", "Supabase"],
-      decentralized: ["Pinata IPFS"]
-    },
-
-    integrations: [
-      "Google Apps Script", "EmailJS",
-      "Webhooks", "REST APIs", "Chart.js"
-    ],
-
-    devOps: ["Git & GitHub", "Docker", "AWS EC2", "Vercel", "Figma", "Arduino IDE"]
-  },
-
-  shippedProjects: [
-    "Gridium Protocol  → DDPG + zk-SNARK decentralized energy trading  [IEEE Paper]",
-    "ManoBandhu       → Mental wellness SaaS · live users  [Freelance]",
-    "SkillBridge       → Gasless blockchain credential platform on Base Sepolia",
-    "MisInformation    → Agentic AI misinformation detection  [MumbaiHacks 2025]",
-    "Krushi-Mitra AI   → Smart farming · NDVI · yield prediction  [SIH 2025]"
-  ],
-
-  certifications: [
-    "Basic to Advanced Microsoft Excel — Skill Nation",
-    "Understanding Prompt Engineering — Google",
-    "Introduction to HTML5 — University of Michigan",
-    "Professional Ethics — HCL Tech"
-  ],
-
-  currentFocus: "Building at the intersection of ML systems and decentralized infra",
-  funFact: "My best debugging sessions happen after midnight with cold coffee ☕"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> *I love connecting with different people — if you want to say **hi, I'll be happy to meet you more!** 😊*
+- 🔬 Published IEEE-format conference paper — **Gridium Protocol**
+- 🏆 **MumbaiHacks 2025** — Agentic AI misinformation detection system
+- 🌾 **Smart India Hackathon 2025** — AI-powered smart farming platform
+- 🏛️ VP, TechOps Club @ Universal AI University (100+ members)
+- 📩 Open to ML internships, research collabs, and anything hard enough to be worth building
 
 ---
 
-📊 **My GitHub Data**
+### 🚀 Featured Projects
 
-> 🏆 445+ Contributions since Dec 2024
->
-> ✅ Open to Internships & Research Collabs
->
-> 📜 16 Public Repositories
->
-> 🔬 1 IEEE Conference Paper (Gridium Protocol)
-
----
-
-**I'm a Night 🦉**
-
-<!--START_SECTION:waka-->
-```text
-🌞 Morning    ██░░░░░░░░░░░░░░░░░░░░░░░   ~08 %
-🌆 Daytime    ██████░░░░░░░░░░░░░░░░░░░   ~25 %
-🌃 Evening    █████████████░░░░░░░░░░░░   ~50 %
-🌙 Night      █████░░░░░░░░░░░░░░░░░░░░   ~17 %
-```
-
-📅 **I'm Most Productive on Weekends**
-
-```text
-Monday       ███░░░░░░░░░░░░░░░░░░░░░░   11 %
-Tuesday      ███░░░░░░░░░░░░░░░░░░░░░░   12 %
-Wednesday    ████░░░░░░░░░░░░░░░░░░░░░   14 %
-Thursday     ███░░░░░░░░░░░░░░░░░░░░░░   11 %
-Friday       ██░░░░░░░░░░░░░░░░░░░░░░░   10 %
-Saturday     █████░░░░░░░░░░░░░░░░░░░░   18 %
-Sunday       ██████░░░░░░░░░░░░░░░░░░░   24 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-💬 Programming Languages:
-Python                   ████████████░░░░░░░░░░░░░   46 %
-TypeScript               ███████░░░░░░░░░░░░░░░░░░   27 %
-Solidity                 ████░░░░░░░░░░░░░░░░░░░░░   15 %
-Markdown                 ██░░░░░░░░░░░░░░░░░░░░░░░    7 %
-YAML / Other             █░░░░░░░░░░░░░░░░░░░░░░░░    5 %
-```
-
-**I Mostly Code in Python**
-
-```text
-Python        █████████░░░░░░░░░░░░░░░░   38 %
-TypeScript    ███████░░░░░░░░░░░░░░░░░░   27 %
-Solidity      █████░░░░░░░░░░░░░░░░░░░░   18 %
-JavaScript    ███░░░░░░░░░░░░░░░░░░░░░░   10 %
-Other         ██░░░░░░░░░░░░░░░░░░░░░░░    7 %
-```
-<!--END_SECTION:waka-->
-
-> ⚡ Stats auto-update daily via [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action
+| Project | What it is | Stack |
+|---|---|---|
+| [**Gridium Protocol**](https://gridiumprotocol.netlify.app/overview) | RL + zk-SNARK decentralized energy trading — DDPG agent, AMM smart contracts, Groth16 privacy proofs. IEEE paper. | Python · PyTorch · Solidity · Circom · Hardhat · Web3.py |
+| [**ManoBandhu**](https://github.com/THRILL3R) | Mental wellness SaaS platform — gamified "Island Universe" experience, hybrid DB + Google Sheets failover, live users | React · TypeScript · Node.js · PostgreSQL · Framer Motion |
+| [**SkillBridge**](https://skillbridge-iota-seven.vercel.app/) | Gasless blockchain credential platform — tamper-proof certificates on Base Sepolia, zero ETH required for students | Next.js · Solidity · Base Sepolia · Pinata IPFS · Wagmi |
+| [**MisInformation**](https://github.com/THRILL3R) | Agentic AI system detecting financial misinformation in real time — multi-agent pipelines + anomaly detection | Python · FastAPI · Gemini API · TensorFlow · Supabase |
+| [**Krushi-Mitra AI**](https://github.com/THRILL3R) | Smart farming app — NDVI analysis, ML yield prediction, AI Plant Doctor | React · Flask · TensorFlow · MongoDB · AWS EC2 · Docker |
 
 ---
 
-**🐱 GitHub Stats**
+### 🛠 Tech Stack
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Blockchain / Web3**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+
+**DevOps / Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=THRILL3R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THRILL3R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=THRILL3R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THRILL3R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=THRILL3R&theme=tokyonight&hide_border=true" />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=THRILL3R&theme=tokyonight&hide_border=true)
+
 </div>
 
+---
+
+### 📫 Connect
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THRILL3R&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanket.dekaglgt@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Always reading papers. Always shipping code.</sub>
+<sub>Always reading papers. Always shipping code.</sub>
 </div>
