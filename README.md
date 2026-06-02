@@ -14,7 +14,6 @@ I care about one thing: **problems that actually need AI to solve them.**
 
 That's meant training DDPG agents for real-time decentralized energy markets, shipping agentic misinformation detection pipelines, building production SaaS with real users, and designing gasless blockchain infra from scratch.
 
-- 🔬 Published IEEE-format conference paper — **Gridium Protocol**
 - 🏆 **MumbaiHacks 2025** — Agentic AI misinformation detection system
 - 🌾 **Smart India Hackathon 2025** — AI-powered smart farming platform
 - 🏛️ VP, TechOps Club @ Universal AI University (100+ members)
