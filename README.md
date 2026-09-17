@@ -8,7 +8,7 @@
 
 ### About Me
 
-3rd year B.Tech AI & ML @ Universal AI University, Karjat — I build systems where the model is just one part of the product.
+3rd year B.Tech AI & ML @ Universal AI University, Karjat. I build systems where the model is just one part of the product.
 
 I care about one thing: **problems that actually need AI to solve them.**
 
@@ -25,11 +25,11 @@ That's meant training DDPG agents for real-time decentralized energy markets, sh
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Gridium Protocol**](https://gridiumprotocol.netlify.app/overview) | RL + zk-SNARK decentralized energy trading — DDPG agent, AMM smart contracts, Groth16 privacy proofs. IEEE paper. | Python · PyTorch · Solidity · Circom · Hardhat · Web3.py |
-| [**ManoBandhu**](https://github.com/THRILL3R) | Mental wellness SaaS platform — gamified "Island Universe" experience, hybrid DB + Google Sheets failover, live users | React · TypeScript · Node.js · PostgreSQL · Framer Motion |
-| [**SkillBridge**](https://skillbridge-iota-seven.vercel.app/) | Gasless blockchain credential platform — tamper-proof certificates on Base Sepolia, zero ETH required for students | Next.js · Solidity · Base Sepolia · Pinata IPFS · Wagmi |
-| [**MisInformation**](https://github.com/THRILL3R) | Agentic AI system detecting financial misinformation in real time — multi-agent pipelines + anomaly detection | Python · FastAPI · Gemini API · TensorFlow · Supabase |
-| [**Krushi-Mitra AI**](https://github.com/THRILL3R) | Smart farming app — NDVI analysis, ML yield prediction, AI Plant Doctor | React · Flask · TensorFlow · MongoDB · AWS EC2 · Docker |
+| [**Gridium Protocol**](https://gridiumprotocol.netlify.app/overview) | RL + zk-SNARK decentralized energy trading: DDPG agent, AMM smart contracts, Groth16 privacy proofs. IEEE paper. | Python · PyTorch · Solidity · Circom · Hardhat · Web3.py |
+| [**ManoBandhu**](https://github.com/THRILL3R) | Mental wellness SaaS platform: gamified "Island Universe" experience, hybrid DB + Google Sheets failover, live users | React · TypeScript · Node.js · PostgreSQL · Framer Motion |
+| [**SkillBridge**](https://skillbridge-iota-seven.vercel.app/) | Gasless blockchain credential platform: tamper-proof certificates on Base Sepolia, zero ETH required for students | Next.js · Solidity · Base Sepolia · Pinata IPFS · Wagmi |
+| [**MisInformation**](https://github.com/THRILL3R) | Agentic AI system detecting financial misinformation in real time: multi-agent pipelines + anomaly detection | Python · FastAPI · Gemini API · TensorFlow · Supabase |
+| [**Krushi-Mitra AI**](https://github.com/THRILL3R) | Smart farming app: NDVI analysis, ML yield prediction, AI Plant Doctor | React · Flask · TensorFlow · MongoDB · AWS EC2 · Docker |
 
 ---
 
@@ -77,6 +77,18 @@ That's meant training DDPG agents for real-time decentralized energy markets, sh
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=THRILL3R&theme=tokyonight&hide_border=true)
 
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
