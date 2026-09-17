@@ -85,9 +85,9 @@ That's meant training DDPG agents for real-time decentralized energy markets, sh
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Shaunakrane914/Shaunakrane914/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/THRILL3R/THRILL3R/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/THRILL3R/THRILL3R/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/THRILL3R/THRILL3R/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
